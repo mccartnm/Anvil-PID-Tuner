@@ -4,5 +4,5 @@ if [ ! -d "./_env" ] then
     python -m venv _env
 fi
 source _env/bin/activate
-python install -r requirements.txt
-python ./AnvilTuner.py
+python install -r Virtualenv/requirements.txt
+python ./Virtualenv/AnvilTuner.py

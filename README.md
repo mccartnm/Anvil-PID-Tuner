@@ -22,12 +22,12 @@ Done by prettytrue on the BPS discord
 Windows:
 ```
 C:/...> cd <this_repo>
-C:/...> run.bat
+C:/...> Virtualenv/run.bat
 ...
 ```
 
 Unix:
 ```
 $> cd <this_repo>
-$> ./run
+$> ./Virtualenv/run
 ```
